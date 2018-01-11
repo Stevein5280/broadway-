@@ -1,0 +1,63 @@
+body {
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+p {
+  font-size: 14px;
+}
+
+div {
+  display: block;
+}
+
+footer {
+  text-align: left;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
+
+.background {
+  background-image: url(/Users/Steven/Desktop/Projects/CourseProjects/broadway/resource/images/the-flatiron-building.png);
+}
+
+.navlist {
+  font-size: 18px;
+  color: white;
+}
+
+.banner {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+.bottom-nav {
+  display: inline-block;
+}
+
+.brand {
+  font-size: 11px;
+}
